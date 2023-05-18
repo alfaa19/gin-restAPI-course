@@ -26,7 +26,7 @@ https://console.cloudinary.com/
 ```
 4. Setelah anda memiliki akun cloudinary, copy API Enviroment Variable yang ada di dashboard kemudian simpan kedalam file .env.example yang ada pada file project
 
-    ![App Screenshot](../assets/Screenshot1.jpg)
+    ![App Screenshot](assets/Screenshot1.jpg)
 
 5. Selanjutnya anda dapat membuka file project dan mengatur configurasi yang ada pada file .env.example setelah mengatur konfigurasi jangan lupa rubah nama file .env.example menjadi .env
 
