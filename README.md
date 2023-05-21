@@ -57,7 +57,10 @@ Start  server
 ```bash
   go run main.go
 ```
-
+Server Running on port :8001
+```bash
+   127.0.0.1:8001
+ ```
 
 ## API Reference
 
